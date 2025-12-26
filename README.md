@@ -59,3 +59,36 @@ Once triggered, the alarm remains active until manually reset by medical staff.
 ---
 
 ## 📁 Project Structure
+- labview_code/ → LabVIEW VI files
+- report/ → Project report (PDF)
+- images/ → Front panel & block diagram screenshots
+- Readme
+
+
+---
+
+## 🧪 Verification
+All subsystems were validated through LabVIEW simulation.
+Results demonstrate correct alarm behavior, robust signal processing,
+and safe environmental control under abnormal conditions.
+
+---
+
+## 👨‍💻 Team Members
+- Elsayed Ashraf Ramadan Bakry  
+- Mohamed Ayman Elsayegh  
+- Ahmed Basem Abdelsalam AboKela  
+
+---
+
+## 🏫 Academic Information
+**Department:** Electrical Communications and Electronics Engineering  
+**University:** Alexandria University  
+**Date:** 4 December 2025  
+
+---
+
+## 📚 References
+- National Instruments – LabVIEW Core 1 Manual  
+- Swain et al., *Patient Monitoring System Using LabVIEW*  
+- Webster, *Medical Instrumentation: Application and Design*
